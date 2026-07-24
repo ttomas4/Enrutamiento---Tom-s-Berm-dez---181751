@@ -19,13 +19,13 @@ Instrucciones para clonar el repositorio y abrir la página
 
 6 Escriba git clone y pegue la dirección URL que ha copiado antes.
 
-"git clone https://github.com/ttomas4/Enrutamiento---Tom-s-Berm-dez---181751"
+"git clone https://github.com/ttomas4/Enrutamiento---Tom-s-Berm-dez---181751.git"
 
 7 Presione Enter para crear el clon local.
 
 Ingresar a la carpeta del proyecto:
 
-"cd Enrutamiento---Tom-s-Berm-dez---181751.git"
+"cd Enrutamiento---Tom-s-Berm-dez---181751"
 
 Instalar las dependencias:
 
