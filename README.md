@@ -1,5 +1,8 @@
 Hola, ¿cómo estas? Soy Tomás Bermúdez. Curso de Desarrollo en React JS. 181751
 
+Hice este proyecto para la tarea sobre enrutamientos del Módulo 2 Unidad 3, con el objetivo de poner en practica cosas como:  BrowserRouter, Routes y Route, Navegación con <Link> y useNavigate, Rutas dinámicas con useParams. Entre otras.
+
+
 Instrucciones para clonar el repositorio y abrir la página
 
 1 En GitHub, navegue hasta la página principal del repositorio.
@@ -58,4 +61,4 @@ Perfil:
 
 <img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/ff90943e-88a4-4e31-8ec0-5569fb2839ea" />
 
-
+Muchas gracias, espero que les guste.
