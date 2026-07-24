@@ -19,7 +19,7 @@ Instrucciones para clonar el repositorio y abrir la página
 
 6 Escriba git clone y pegue la dirección URL que ha copiado antes.
 
-"git clone https://github.com/ttomas4/Enrutamiento---Tom-s-Berm-dez---181751.git"
+"git clone https://github.com/ttomas4/Enrutamiento---Tom-s-Berm-dez---181751"
 
 7 Presione Enter para crear el clon local.
 
